@@ -1,0 +1,57 @@
+DocReel Studio - Terms of use and privacy (test version)
+=========================================================
+getoffwire - getoffwire@gmail.com
+
+This is a plain-language text for the test version. A final licence agreement replaces it for the paid version.
+By installing or using DocReel Studio you accept it. If you do not accept it, do not install or use the program.
+
+1. What you may do
+   - Use DocReel Studio on your own computers, for personal or business work, during the trial and, if you buy a
+     licence, as long as the licence is valid. A licence covers the number of computers shown on the purchase page.
+   - Make videos, study sheets and other files with it. The files you make from your own documents belong to you.
+   - You are responsible for having the right to use the documents you put in.
+
+2. What you may not do
+   - Sell, rent, share or publish the installer, the program files or a licence key.
+   - Take the program apart, copy its code, or remove its notices, except where the law gives you that right
+     regardless of this text.
+   - Remove or work around the trial limit.
+
+3. Trial
+   - The trial lasts 7 days from the first start. When it ends, you can no longer make new work (generate,
+     add sources or files, Find, Study Kit). What is already open can still be looked at and exported, and the built-in
+     sample notebooks keep working.
+   - The date of the first start is kept in three places on your computer: in the program's data folder, in a small
+     file in your user profile (folder getoffwire-docreel) and in the Windows registry
+     (HKEY_CURRENT_USER\Software\getoffwire\DocReel). Uninstalling does not remove them, so reinstalling does
+     not start a new trial. They contain only a date and a check code.
+
+4. Privacy
+   - DocReel Studio works offline. The documents, pictures and text you put in, and everything it makes,
+     stay on your computer. It has no accounts, no analytics and no automatic updates.
+   - The only time the program connects to the internet is when you press "Activate" for a purchased licence key:
+     the key is then checked with the seller's shop (Gumroad). Nothing else is sent.
+   - "Send feedback" opens a new email in your own email program, with the program version and system details
+     filled in. You see it before you send it, and nothing is sent unless you press Send there.
+   - Files you save go to the folder Downloads\DocReel. Settings and auto-saved work are in
+     %APPDATA%\DocReel Studio. You can delete both at any time.
+
+5. Results can be wrong
+   - Text read from pictures or scanned pages (OCR) can contain mistakes, and the program selects sentences by rules,
+     not by understanding them. Check the results against your source before you rely on them, and do not use them as
+     the only basis for legal, medical or financial decisions.
+
+6. Other people's software
+   - DocReel Studio includes open-source components under their own licences. They are listed in
+     Help > Open-source licences.
+
+7. No warranty, limited liability
+   - The test version is provided "as is", without any promise that it is free of errors or fits your purpose.
+   - As far as the law allows, getoffwire is not liable for lost data, lost profit or indirect damage, and total
+     liability is limited to the price you paid for the licence (nothing, for the trial). Rights you have by law as a
+     consumer are not affected.
+
+8. Changes
+   - A newer version may come with different terms. You will see them before you install it.
+
+Copyright (c) 2026 getoffwire. All rights reserved.
